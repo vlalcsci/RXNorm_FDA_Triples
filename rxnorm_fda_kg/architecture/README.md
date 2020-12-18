@@ -11,16 +11,16 @@ Read the main README for the project for naming convention used<br>
 **Future Work**<br>
 There are Basically 4 TYPES of Files for Node Edges in both RXNORM and FDA:<br>
 		QNODE_PNODE, QNODE_PRXNODE, QRXNODE_PNODE, QRXNODE_PRXNODE<br>
-1   Subject in Wikidata, Predicate in Wikidata [QNODE_PNODE]: <br>
+*   Subject in Wikidata, Predicate in Wikidata [QNODE_PNODE]: <br>
 		We can expand the Wikidata Knowledge Graph to include these Additional Properties or Identifiers(PNODE)<br>
 		We can also Perform Label, Description or Alias Comparison and Analysis for such QNodes<br>
-2   Subject in Wikidata, Predicate NOT in Wikidata [QNODE_PRXNODE]: <br>
+*   Subject in Wikidata, Predicate NOT in Wikidata [QNODE_PRXNODE]: <br>
 		We can Perform Linking/Semantic Labeling for such Predicates(PRXNODE) to see if they are already in Wikidata<br>
 		We can also Perform Label, Description or Alias Comparison and Analysis for such QNodes<br>
-3   Subject NOT in Wikidata, Predicate in Wikidata [QRXNODE_PNODE]: <br>
+*   Subject NOT in Wikidata, Predicate in Wikidata [QRXNODE_PNODE]: <br>
 		We can Perform Identifiers(PNODE) based linking for such Nodes to see if they are already in Wikidata<br>
 		We can Perform Entity Linking for such Nodes to see if they are already in Wikidata<br>
-4   Subject NOT in Wikidata, Predicate NOT in Wikidata [QRXNODE_PRXNODE]: <br>
+*   Subject NOT in Wikidata, Predicate NOT in Wikidata [QRXNODE_PRXNODE]: <br>
 		We can Perform Identifiers(PNODE) based linking for such Nodes to see if they are already in Wikidata<br>
 		We can Perform Entity Linking for such Nodes to see if they are already in Wikidata<br>
 
