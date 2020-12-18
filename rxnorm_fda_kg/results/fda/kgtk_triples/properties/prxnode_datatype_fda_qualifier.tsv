@@ -1,0 +1,9 @@
+node1	label	node2
+PRX_FDA_strength	data_type	"string"
+PRX_FDA_reference_drug	data_type	"string"
+PRX_FDA_route	data_type	"string"
+PRX_FDA_marketing_status	data_type	"string"
+PRX_FDA_brand_name	data_type	"string"
+PRX_FDA_active_ingredients	data_type	"string"
+PRX_FDA_reference_standard	data_type	"string"
+PRX_FDA_dosage_form	data_type	"string"

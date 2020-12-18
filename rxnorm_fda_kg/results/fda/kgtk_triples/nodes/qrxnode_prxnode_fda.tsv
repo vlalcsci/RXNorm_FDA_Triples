@@ -1,0 +1,117 @@
+node1	label	node2
+QRX1656356	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656356	PRX_FDA_product_type	'HUMAN PRESCRIPTION DRUG'@en
+QRX1656356	PRX_ID_product_id	"0078-0696_9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656356	PRX_FDA_marketing_category	'NDA'@en
+QRX1656356	PRX_FDA_route	'ORAL'@en
+QRX1656356	PRX_FDA_generic_name	'Sacubitril and Valsartan'@en
+QRX1656356	PRX_FDA_brand_name	'ENTRESTO'@en
+QRX1656356	PRX_FDA_brand_name_base	'ENTRESTO'@en
+QRX1656356	PRX_FDA_labeler_name	'Novartis Pharmaceuticals Corporation'@en
+QRX1656356	PRX_FDA_active_ingredients	'SACUBITRIL'@en
+QRX1656356	PRX_FDA_active_ingredients	'VALSARTAN'@en
+QRX1656356	PRX_FDA_finished	True
+QRX1656356	PRX_ID_spl_id	"9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656356	PRX_FDA_pharm_class	'Neprilysin Inhibitor [EPC]'@en
+QRX1656356	PRX_FDA_pharm_class	'Neprilysin Inhibitors [MoA]'@en
+QRX1656356	PRX_FDA_pharm_class	'Angiotensin 2 Receptor Antagonists [MoA]'@en
+QRX1656356	PRX_FDA_pharm_class	'Angiotensin 2 Receptor Blocker [EPC]'@en
+QRX1656356	PRX_FDA_application_number	'NDA207620'@en
+QRX1656356	PRX_FDA_listing_expiration_date	^2021-12-31
+QRX1656356	PRX_FDA_dosage_form	'TABLET, FILM COATED'@en
+QRX1656351	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656351	PRX_FDA_product_type	'HUMAN PRESCRIPTION DRUG'@en
+QRX1656351	PRX_ID_product_id	"0078-0777_9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656351	PRX_FDA_marketing_category	'NDA'@en
+QRX1656351	PRX_FDA_route	'ORAL'@en
+QRX1656351	PRX_FDA_generic_name	'Sacubitril and Valsartan'@en
+QRX1656351	PRX_FDA_brand_name	'ENTRESTO'@en
+QRX1656351	PRX_FDA_brand_name_base	'ENTRESTO'@en
+QRX1656351	PRX_FDA_labeler_name	'Novartis Pharmaceuticals Corporation'@en
+QRX1656351	PRX_FDA_active_ingredients	'SACUBITRIL'@en
+QRX1656351	PRX_FDA_active_ingredients	'VALSARTAN'@en
+QRX1656351	PRX_FDA_finished	True
+QRX1656351	PRX_ID_spl_id	"9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656351	PRX_FDA_pharm_class	'Neprilysin Inhibitor [EPC]'@en
+QRX1656351	PRX_FDA_pharm_class	'Neprilysin Inhibitors [MoA]'@en
+QRX1656351	PRX_FDA_pharm_class	'Angiotensin 2 Receptor Antagonists [MoA]'@en
+QRX1656351	PRX_FDA_pharm_class	'Angiotensin 2 Receptor Blocker [EPC]'@en
+QRX1656351	PRX_FDA_application_number	'NDA207620'@en
+QRX1656351	PRX_FDA_listing_expiration_date	^2021-12-31
+QRX1656351	PRX_FDA_dosage_form	'TABLET, FILM COATED'@en
+QRX1656346	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656346	PRX_FDA_product_type	'HUMAN PRESCRIPTION DRUG'@en
+QRX1656346	PRX_ID_product_id	"0078-0659_9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656346	PRX_FDA_marketing_category	'NDA'@en
+QRX1656346	PRX_FDA_route	'ORAL'@en
+QRX1656346	PRX_FDA_generic_name	'Sacubitril and Valsartan'@en
+QRX1656346	PRX_FDA_brand_name	'ENTRESTO'@en
+QRX1656346	PRX_FDA_brand_name_base	'ENTRESTO'@en
+QRX1656346	PRX_FDA_labeler_name	'Novartis Pharmaceuticals Corporation'@en
+QRX1656346	PRX_FDA_active_ingredients	'SACUBITRIL'@en
+QRX1656346	PRX_FDA_active_ingredients	'VALSARTAN'@en
+QRX1656346	PRX_FDA_finished	True
+QRX1656346	PRX_ID_spl_id	"9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656346	PRX_FDA_pharm_class	'Neprilysin Inhibitor [EPC]'@en
+QRX1656346	PRX_FDA_pharm_class	'Neprilysin Inhibitors [MoA]'@en
+QRX1656346	PRX_FDA_pharm_class	'Angiotensin 2 Receptor Antagonists [MoA]'@en
+QRX1656346	PRX_FDA_pharm_class	'Angiotensin 2 Receptor Blocker [EPC]'@en
+QRX1656346	PRX_FDA_application_number	'NDA207620'@en
+QRX1656346	PRX_FDA_listing_expiration_date	^2021-12-31
+QRX1656346	PRX_FDA_dosage_form	'TABLET, FILM COATED'@en
+QRX1656356	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656356	PRX_FDA_sample	False
+QRX1656356	PRX_FDA_description	'60 TABLET, FILM COATED in 1 BOTTLE (0078-0696-20)'@en
+QRX1656356	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656356	PRX_FDA_sample	False
+QRX1656356	PRX_FDA_description	'180 TABLET, FILM COATED in 1 BOTTLE (0078-0696-67)'@en
+QRX1656351	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656351	PRX_FDA_sample	False
+QRX1656351	PRX_FDA_description	'60 TABLET, FILM COATED in 1 BOTTLE (0078-0777-20)'@en
+QRX1656351	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656351	PRX_FDA_sample	False
+QRX1656351	PRX_FDA_description	'180 TABLET, FILM COATED in 1 BOTTLE (0078-0777-67)'@en
+QRX1656346	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656346	PRX_FDA_sample	False
+QRX1656346	PRX_FDA_description	'60 TABLET, FILM COATED in 1 BOTTLE (0078-0659-20)'@en
+QRX1656346	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656346	PRX_FDA_sample	False
+QRX1656346	PRX_FDA_marketing_end_date	^2020-12-31
+QRX1656346	PRX_FDA_description	'100 BLISTER PACK in 1 BOX, UNIT-DOSE (0078-0659-35)  > 1 TABLET, FILM COATED in 1 BLISTER PACK (0078-0659-61)'@en
+QRX1656346	PRX_FDA_marketing_start_date	^2015-07-07
+QRX1656346	PRX_FDA_sample	False
+QRX1656346	PRX_FDA_description	'180 TABLET, FILM COATED in 1 BOTTLE (0078-0659-67)'@en
+QRX1656351	PRX_FDA_product_type	'HUMAN PRESCRIPTION DRUG'@en
+QRX1656351	PRX_ID_SPL_SET_ID	"000dc81d-ab91-450c-8eae-8eb74e72296f"
+QRX1656351	PRX_FDA_route	'ORAL'@en
+QRX1656351	PRX_FDA_generic_name	'SACUBITRIL AND VALSARTAN'@en
+QRX1656351	PRX_FDA_brand_name	'ENTRESTO'@en
+QRX1656351	PRX_FDA_product_ndc	'0078-0696'@en
+QRX1656351	PRX_FDA_product_ndc	'0078-0659'@en
+QRX1656351	PRX_FDA_product_ndc	'0078-0777'@en
+QRX1656351	PRX_FDA_substance_name	'SACUBITRIL'@en
+QRX1656351	PRX_FDA_substance_name	'VALSARTAN'@en
+QRX1656351	PRX_ID_spl_id	"9ed0dcad-96f2-4b22-aa47-22d88ef92a8b"
+QRX1656351	PRX_FDA_application_number	'NDA207620'@en
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0777-67"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0659-35"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0777-35"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0696-61"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0777-61"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0696-35"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0696-67"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0659-61"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0777-20"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0696-20"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0659-67"
+QRX1656351	PRX_ID_NDC 3 Segment	"0078-0659-20"
+QRX1656351	PRX_FDA_product_number	'002'@en
+QRX1656351	PRX_FDA_product_number	'003'@en
+QRX1656351	PRX_FDA_product_number	'001'@en
+QRX1656351	PRX_FDA_application_number	'NDA207620'@en
+QRX1656351	PRX_FDA_submission_status_date	^2016-02-12
+QRX1656351	PRX_FDA_submission_status_date	^2016-05-11
+QRX1656351	PRX_FDA_submission_status_date	^2017-11-22
+QRX1656351	PRX_FDA_submission_status_date	^2015-07-07
+QRX1656351	PRX_FDA_submission_status_date	^2019-10-01
+QRX1656351	PRX_FDA_submission_status_date	^2016-12-21

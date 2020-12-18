@@ -1,0 +1,61 @@
+node1	label	node2
+0078-0696	marketing_start_date	20150707
+0078-0696	product_type	HUMAN PRESCRIPTION DRUG
+0078-0696	product_id	0078-0696_9ed0dcad-96f2-4b22-aa47-22d88ef92a8b
+0078-0696	marketing_category	NDA
+0078-0696	route	ORAL
+0078-0696	generic_name	Sacubitril and Valsartan
+0078-0696	brand_name	ENTRESTO
+0078-0696	brand_name_base	ENTRESTO
+0078-0696	labeler_name	Novartis Pharmaceuticals Corporation
+0078-0696	active_ingredients	SACUBITRIL
+0078-0696	active_ingredients	VALSARTAN
+0078-0696	finished	True
+0078-0696	spl_id	9ed0dcad-96f2-4b22-aa47-22d88ef92a8b
+0078-0696	pharm_class	Neprilysin Inhibitor [EPC]
+0078-0696	pharm_class	Neprilysin Inhibitors [MoA]
+0078-0696	pharm_class	Angiotensin 2 Receptor Antagonists [MoA]
+0078-0696	pharm_class	Angiotensin 2 Receptor Blocker [EPC]
+0078-0696	application_number	NDA207620
+0078-0696	listing_expiration_date	20211231
+0078-0696	dosage_form	TABLET, FILM COATED
+0078-0777	marketing_start_date	20150707
+0078-0777	product_type	HUMAN PRESCRIPTION DRUG
+0078-0777	product_id	0078-0777_9ed0dcad-96f2-4b22-aa47-22d88ef92a8b
+0078-0777	marketing_category	NDA
+0078-0777	route	ORAL
+0078-0777	generic_name	Sacubitril and Valsartan
+0078-0777	brand_name	ENTRESTO
+0078-0777	brand_name_base	ENTRESTO
+0078-0777	labeler_name	Novartis Pharmaceuticals Corporation
+0078-0777	active_ingredients	SACUBITRIL
+0078-0777	active_ingredients	VALSARTAN
+0078-0777	finished	True
+0078-0777	spl_id	9ed0dcad-96f2-4b22-aa47-22d88ef92a8b
+0078-0777	pharm_class	Neprilysin Inhibitor [EPC]
+0078-0777	pharm_class	Neprilysin Inhibitors [MoA]
+0078-0777	pharm_class	Angiotensin 2 Receptor Antagonists [MoA]
+0078-0777	pharm_class	Angiotensin 2 Receptor Blocker [EPC]
+0078-0777	application_number	NDA207620
+0078-0777	listing_expiration_date	20211231
+0078-0777	dosage_form	TABLET, FILM COATED
+0078-0659	marketing_start_date	20150707
+0078-0659	product_type	HUMAN PRESCRIPTION DRUG
+0078-0659	product_id	0078-0659_9ed0dcad-96f2-4b22-aa47-22d88ef92a8b
+0078-0659	marketing_category	NDA
+0078-0659	route	ORAL
+0078-0659	generic_name	Sacubitril and Valsartan
+0078-0659	brand_name	ENTRESTO
+0078-0659	brand_name_base	ENTRESTO
+0078-0659	labeler_name	Novartis Pharmaceuticals Corporation
+0078-0659	active_ingredients	SACUBITRIL
+0078-0659	active_ingredients	VALSARTAN
+0078-0659	finished	True
+0078-0659	spl_id	9ed0dcad-96f2-4b22-aa47-22d88ef92a8b
+0078-0659	pharm_class	Neprilysin Inhibitor [EPC]
+0078-0659	pharm_class	Neprilysin Inhibitors [MoA]
+0078-0659	pharm_class	Angiotensin 2 Receptor Antagonists [MoA]
+0078-0659	pharm_class	Angiotensin 2 Receptor Blocker [EPC]
+0078-0659	application_number	NDA207620
+0078-0659	listing_expiration_date	20211231
+0078-0659	dosage_form	TABLET, FILM COATED

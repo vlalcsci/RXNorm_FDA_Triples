@@ -1,0 +1,70 @@
+node1	label	node2	id
+QRX1656346-PRX_FDA_active_ingredients-'SACUBITRIL'@en-0000	PRX_FDA_strength	"24 mg/1"	QRX1656346-PRX_FDA_active_ingredients-'SACUBITRIL'@en-0000-PRX_FDA_strength-"24 mg/1"-0000
+QRX1656346-PRX_FDA_active_ingredients-'VALSARTAN'@en-0000	PRX_FDA_strength	"26 mg/1"	QRX1656346-PRX_FDA_active_ingredients-'VALSARTAN'@en-0000-PRX_FDA_strength-"26 mg/1"-0000
+QRX1656351-PRX_FDA_active_ingredients-'SACUBITRIL'@en-0000	PRX_FDA_strength	"49 mg/1"	QRX1656351-PRX_FDA_active_ingredients-'SACUBITRIL'@en-0000-PRX_FDA_strength-"49 mg/1"-0000
+QRX1656351-PRX_FDA_active_ingredients-'VALSARTAN'@en-0000	PRX_FDA_strength	"51 mg/1"	QRX1656351-PRX_FDA_active_ingredients-'VALSARTAN'@en-0000-PRX_FDA_strength-"51 mg/1"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_active_ingredients	"{'strength': '26MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_active_ingredients-"{'strength': '26MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_reference_standard	"No"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_reference_standard-"No"-0000
+QRX1656351-PRX_FDA_product_number-'001'@en-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_product_number-'001'@en-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_active_ingredients	"{'strength': '51MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_active_ingredients-"{'strength': '51MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_reference_standard	"No"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_reference_standard-"No"-0000
+QRX1656351-PRX_FDA_product_number-'002'@en-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_product_number-'002'@en-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_product_number-'003'@en-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_product_number-'003'@en-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_submission_status_date-^2015-07-07-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_submission_status_date-^2016-02-12-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_submission_status_date-^2016-05-11-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_submission_status_date-^2016-12-21-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_submission_status_date-^2017-11-22-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_active_ingredients	"{'strength': '103MG', 'name': 'VALSARTAN'}"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_active_ingredients-"{'strength': '103MG', 'name': 'VALSARTAN'}"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_brand_name	"ENTRESTO"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_brand_name-"ENTRESTO"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_dosage_form	"TABLET"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_dosage_form-"TABLET"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_marketing_status	"Prescription"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_marketing_status-"Prescription"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_reference_drug	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_reference_drug-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_reference_standard	"Yes"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_reference_standard-"Yes"-0000
+QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000	PRX_FDA_route	"ORAL"	QRX1656351-PRX_FDA_submission_status_date-^2019-10-01-0000-PRX_FDA_route-"ORAL"-0000
+QRX1656356-PRX_FDA_active_ingredients-'SACUBITRIL'@en-0000	PRX_FDA_strength	"97 mg/1"	QRX1656356-PRX_FDA_active_ingredients-'SACUBITRIL'@en-0000-PRX_FDA_strength-"97 mg/1"-0000
+QRX1656356-PRX_FDA_active_ingredients-'VALSARTAN'@en-0000	PRX_FDA_strength	"103 mg/1"	QRX1656356-PRX_FDA_active_ingredients-'VALSARTAN'@en-0000-PRX_FDA_strength-"103 mg/1"-0000
