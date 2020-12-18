@@ -2,13 +2,13 @@
 **Note: SPARQL Endpoint is used for Exact Coverage**
 This dependency can be removed by using Wikidata Dump
 
-**Current Issues**
+**Current Issues**<br>
 KGTK Validation is not possible for 2 KGTK Files for FDA: <br>
 QNODE_PRXNODE, QRXNODE_PRXNODE<br>
 Reason: The object for these Triples contain complex tables- Some of them in Actual HTML Format, while others are present with KGTK Conflicting delimeters like @, | or "<br>
 Read the main README for the project for naming convention used<br>
 
-**Future Work**
+**Future Work**<br>
 There are Basically 4 TYPES of Files for Node Edges in both RXNORM and FDA:<br>
 		QNODE_PNODE, QNODE_PRXNODE, QRXNODE_PNODE, QRXNODE_PRXNODE<br>
 1   Subject in Wikidata, Predicate in Wikidata [QNODE_PNODE]: <br>
@@ -24,7 +24,7 @@ There are Basically 4 TYPES of Files for Node Edges in both RXNORM and FDA:<br>
 		We can Perform Identifiers(PNODE) based linking for such Nodes to see if they are already in Wikidata<br>
 		We can Perform Entity Linking for such Nodes to see if they are already in Wikidata<br>
 
-SUMMARY:
+**SUMMARY:**<br>
 For Subject in Wikidata: 
 *	Perform Label, Description or Alias Comparison and Analysis for such QNodes<br>
 
