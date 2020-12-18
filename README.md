@@ -173,7 +173,7 @@ Uses NDC Code information from RXNORM intermediate Triples generated in Step 1C:
 4. Application Number: Used to link Predicates in Drug-Drugs@FDA source
 
 
-# **Step 4A: Generate Intermediate Triples from Drug-NDC Source**
+# **4A: Generate Intermediate Triples from Drug-NDC Source**
 1. Load the data present in JSON Format. There is 1 file for this source<br> 
 2. For Drug-NDC, we get information at 3 levels: NDC 2 Segment, NDC 3 Segment and SPL_SET_ID
 For FDA-NDC, we get predicates for Product NDC Code [NDC 2 segment] E.g. marketing_start_date, product_type, marketing_category etc.<br>
@@ -183,14 +183,14 @@ For FDA-NDC, we also get predicates for Packaging attributes which uses Package_
 4. Write the results to 3 Intermediate Triple Files:
 fda_triples_product_ndc, fda_triples_package_ndc and fda_triples_spl_ndc
 
-# **Step 4B: Generate Intermediate Triples from Drug-Label Source**
+# **4B: Generate Intermediate Triples from Drug-Label Source**
 1. Load the data present in JSON Format. There are 9 file for this source<br> 
 2. For Drug-Label, we get information at 1 levels: SPL_SET_ID
 For FDA-Labeling, we get predicates at SPL_SET_ID level E.G package_label_principal_display_panel, pregnancy, pharmacokinetics, drug_interactions etc.<br>
 4. Write the results to 1 Intermediate Triple Files:
 fda_triples_spl_label
 
-# **Step 4C: Generate Intermediate Triples from Drug-Drugs@FDA Source**
+# **4C: Generate Intermediate Triples from Drug-Drugs@FDA Source**
 1. Load the data present in JSON Format. There is 1 file for this source<br> 
 2. For Drug-Drugs@FDA, we get information at 1 level: Application Number
 For FDA-Drugs@FDA, we get predicates for Application Number: Openfda related predicates, sponsor_name, products information and submissions information<br>
@@ -198,7 +198,7 @@ For FDA-Drugs@FDA, we get predicates for Application Number: Openfda related pre
 4. Write the results to 1 Intermediate Triple Files:
 fda_triples_application_drugsfda
 
-# **Step 4D: Generate Intermediate Triples from Drug-Enforcement Source**
+# **4D: Generate Intermediate Triples from Drug-Enforcement Source**
 1. Load the data present in JSON Format. There is 1 file for this source<br> 
 2. For Drug-Drugs@FDA, we get information at 1 level: Package-NDC Code which is extracted from the Product Description
 For FDA-Drugs@FDA, we get predicates for Package-NDC: Recall, Location, Reason for Recall, Event_id<br>
@@ -211,7 +211,7 @@ Uses the 2 dictionaries created in Step 2 and Step 3:<br>
 qnode_dict_inwiki: RXNormIDs with QNODE in Wikidata<br>
 qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 
-# **Step 5A: Generate KGTK Triples for RXNORM NODE Edge Files**
+# **5A: Generate KGTK Triples for RXNORM NODE Edge Files**
 1. Get the data in required KGTK Format
 2. Dump the Output in 4 files [Naming convention is as follows]:
 *   Subject in Wikidata, Predicate in Wikidata: QNODE_PNODE_RXNORM
@@ -221,7 +221,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 3. Create the Predicates NOT in Wikidata dictionary
 4. Write the results to these 4 KGTK Triples Files
 
-# **Step 5B: Generate KGTK Triples for RXNORM PROPERTIES Edge & DataType Files**
+# **5B: Generate KGTK Triples for RXNORM PROPERTIES Edge & DataType Files**
 1. Segregate and Get the data in required KGTK Format for Edges and DataType using the Predicates NOT in Wikidata dictionary
 2. Dump the Output in 3 files [Naming convention is as follows]:
 *   Predicates NOT in Wikidata: PRXNODE_RXNORM [For Reference Only]
@@ -235,7 +235,7 @@ Uses the 2 dictionaries created in Step 2 and Step 3:<br>
 qnode_dict_inwiki: RXNormIDs with QNODE in Wikidata<br>
 qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 
-# **Step 6A: Generate KGTK Triples for FDA NODES Edge File- from PRODUCT-NDC Intermediate File**
+# **6A: Generate KGTK Triples for FDA NODES Edge File- from PRODUCT-NDC Intermediate File**
 1. Uses the fda_product_ndc Intermediate Triple files generated in Step 4
 2. Get the data in required KGTK Format
 3. Handle the 4 cases to Dump the Output in 4 files [Naming convention is as follows]:
@@ -246,7 +246,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Create the Predicates NOT in Wikidata dictionary
 5. Write the results to these 4 KGTK Triples Files
 
-# **Step 6B: Generate KGTK Triples for FDA NODES Edge File- from PACKAGE-NDC Intermediate File**
+# **6B: Generate KGTK Triples for FDA NODES Edge File- from PACKAGE-NDC Intermediate File**
 1. Uses the fda_package_ndc Intermediate Triple files generated in Step 4
 2. Get the data in required KGTK Format
 3. Handle the 4 cases to Dump the Output in 4 files [Naming convention is as follows]:
@@ -258,7 +258,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 5. Write the results to these 4 KGTK Triples Files
 
 
-# **Step 6C: Generate KGTK Triples for FDA NODES Edge File- from SPL-NDC Intermediate File**
+# **6C: Generate KGTK Triples for FDA NODES Edge File- from SPL-NDC Intermediate File**
 1. Uses the fda_spl_ndc Intermediate Triple files generated in Step 4
 2. Get the data in required KGTK Format
 3. Handle the 4 cases to Dump the Output in 4 files [Naming convention is as follows]:
@@ -269,7 +269,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Create the Predicates NOT in Wikidata dictionary
 5. Write the results to these 4 KGTK Triples Files
 
-# **Step 6D: Generate KGTK Triples for FDA NODES Edge File- from SPL-LABELING Intermediate File**
+# **6D: Generate KGTK Triples for FDA NODES Edge File- from SPL-LABELING Intermediate File**
 1. Uses the fda_spl_labeling Intermediate Triple files generated in Step 4
 2. Get the data in required KGTK Format
 3. Handle the 4 cases to Dump the Output in 4 files [Naming convention is as follows]:
@@ -280,7 +280,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Create the Predicates NOT in Wikidata dictionary
 5. Write the results to these 4 KGTK Triples Files
 
-# **Step 6E: Generate KGTK Triples for FDA NODES Edge File- from APPLICATION-DRUGSFDA Intermediate File**
+# **6E: Generate KGTK Triples for FDA NODES Edge File- from APPLICATION-DRUGSFDA Intermediate File**
 1. Uses the fda_application_drugsfda Intermediate Triple files generated in Step 4
 2. Get the data in required KGTK Format
 3. Handle the 4 cases to Dump the Output in 4 files [Naming convention is as follows]:
@@ -291,7 +291,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Create the Predicates NOT in Wikidata dictionary
 5. Write the results to these 4 KGTK Triples Files
 
-# **Step 6F: Generate KGTK Triples for FDA NODES Edge File- from PACKAGE-ENFORCEMENT Intermediate File**
+# **6F: Generate KGTK Triples for FDA NODES Edge File- from PACKAGE-ENFORCEMENT Intermediate File**
 1. Uses the fda_package_enforcment Intermediate Triple files generated in Step 4
 2. Get the data in required KGTK Format
 3. Handle the 4 cases to Dump the Output in 4 files [Naming convention is as follows]:
@@ -302,7 +302,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Create the Predicates NOT in Wikidata dictionary
 5. Write the results to these 4 KGTK Triples Files
 
-# **Step 6G: Generate KGTK Triples for FDA PROPERTIES Edge & DataType Files**
+# **6G: Generate KGTK Triples for FDA PROPERTIES Edge & DataType Files**
 1. Segregate and Get the data in required KGTK Format for Edges and DataType using the Predicates NOT in Wikidata dictionary
 2. Dump the Output in 3 files [Naming convention is as follows]:
 *   Predicates NOT in Wikidata: PRXNODE_FDA [For Reference Only]
@@ -312,7 +312,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 
 # **Step 7: Perform KGTK Transformations and Validation on NODES and PROPERTIES Edge files**
 
-# **Step 7A: Perform KGTK Compact Transformation**
+# **7A: Perform KGTK Compact Transformation**
 1. Perform KGTK Compact Transformation for RXNorm KGTK triples NODES:<br>
       4 Files- QRXNode_PNode, QRXNode_PRXNode, QNode_PNode, QNode_PRXNode
 2. Perform KGTK Compact Transformation for FDA KGTK triples NODES:<br>
@@ -322,7 +322,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Perform KGTK Compact Transformation for FDA KGTK triples PROPERTIES:<br>
       1 File- PRXNode
 
-# **Step 7B: Perform KGTK ADD-ID Transformation**
+# **7B: Perform KGTK ADD-ID Transformation**
 1. Perform KGTK ADD-ID Transformation for RXNorm KGTK triples NODES:<br>
       4 Files- QRXNode_PNode, QRXNode_PRXNode, QNode_PNode, QNode_PRXNode
 2. Perform KGTK ADD-ID Transformation for FDA KGTK triples NODES:<br>
@@ -332,7 +332,7 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 4. Perform KGTK ADD-ID Transformation for FDA KGTK triples PROPERTIES:<br>
       1 File- PRXNode
 
-# **Step 7C: Perform KGTK Validate**
+# **7C: Perform KGTK Validate**
 1. Perform KGTK Validate for RXNorm KGTK triples NODES:<br>
       4 Files- QRXNode_PNode, QRXNode_PRXNode, QNode_PNode, QNode_PRXNode
 2. Perform KGTK Validate for FDA KGTK triples NODES:<br>
@@ -345,19 +345,19 @@ qnode_dict_notinwiki: RXNormIDs with QRXNODE NOT in Wikidata<br>
 # **Step 8: Generate KGTK Triples for FDA and RXNORM Qualifiers**
 Uses the FDA and RXNORM KGTK Triples with IDs [created in Step 7] to generate Qualifier Edges
 
-# **Step 8A: Generate KGTK Triples for FDA Qualifiers**
+# **8A: Generate KGTK Triples for FDA Qualifiers**
 1. Generate KGTK Triples for Qualifiers Related to Active Ingredients in Drug-NDC, Products information in Drugs@FDA and Submissions Information in Drugs@FDA
 2. Get the qualifiers for 2 files:
       QNODE_PRXNODE_QUALIFIER and QRXNODE_PRXNODE_QUALIFIER
 3. Write the results to these 2 files
 
-# **Step 8B: Generate KGTK Triples for RXNORM Qualifiers**
+# **8B: Generate KGTK Triples for RXNORM Qualifiers**
 1. Generate KGTK Triples for Qualifiers Related to RXNORM Identifiers
 2. Get the qualifiers for 4 files:
       QNODE_PRXNODE_QUALIFIER, QRXNODE_PRXNODE_QUALIFIER, QNODE_PNODE_QUALIFIER, QRXNODE_PNODE_QUALIFIER
 3. Write the results to these 4 files
 
-# **Step 8C: Generate KGTK Triples for FDA Additional PROPERTIES from Qualifiers**
+# **8C: Generate KGTK Triples for FDA Additional PROPERTIES from Qualifiers**
 1. Generate KGTK Triples for Properties Related to FDA Properties
 2. Get the properties:<br>
       PRXNODE_QUALIFIER_FDA<br>
@@ -367,24 +367,24 @@ Uses the FDA and RXNORM KGTK Triples with IDs [created in Step 7] to generate Qu
 
 # **Step 9: Perform KGTK Transformations and Validation for RXNORM AND FDA QUALIFIERS**
 
-# **Step 9A: Perform KGTK Compact Transformation**
+# **9A: Perform KGTK Compact Transformation**
 1. Perform KGTK Compact Transformation for RXNORM Qualifiers
 2. Perform KGTK Compact Transformation for FDA Qualifiers
 3. Perform KGTK Compact Transformation for FDA Properties related to Qualifiers
 
-# **Step 9B: Perform KGTK ADD-ID Transformation**
+# **9B: Perform KGTK ADD-ID Transformation**
 1. Perform KGTK ADD-ID Transformation for RXNORM Qualifiers
 2. Perform KGTK ADD-ID Transformation for FDA Qualifiers
 3. Perform KGTK ADD-ID Transformation for FDA Properties related to Qualifiers
 
-# **Step 9C: Perform KGTK Validate**
+# **9C: Perform KGTK Validate**
 1. Perform KGTK Validate for RXNORM Qualifiers
 2. Perform KGTK Validate Transformation for FDA Qualifiers
 3. Perform KGTK Validate Transformation for FDA Properties related to Qualifiers
 
 # **Step 10: Generate Triples for Ingestion**
 
-# **Step 10A: Merge RXNORM KGTK Triples for Edges and Property-DataType**
+# **10A: Merge RXNORM KGTK Triples for Edges and Property-DataType**
 1. Perform KGTK Concatenate Transformation for RXNorm KGTK triples- NODES edges:<br>
 4 Files- QRXNode_PNode, QRXNode_PRXNode, QNode_PNode, QNode_PRXNode
 2. Perform KGTK Concatenate Transformation for RXNorm KGTK triples- QUALIFIERS edges:<br>
@@ -394,7 +394,7 @@ Uses the FDA and RXNORM KGTK Triples with IDs [created in Step 7] to generate Qu
 4. Perform KGTK Concatenate Transformation for RXNorm KGTK triples- PPROPERTIES datatype:<br>
 1 Files- PRXNode_datatype
 
-# **Step 10B: Merge FDA KGTK Triples for Edges and Property-DataType**
+# **10B: Merge FDA KGTK Triples for Edges and Property-DataType**
 1. Perform KGTK Concatenate Transformation for FDA KGTK triples- NODES edges:<br>
 4 Files- QRXNode_PNode, QRXNode_PRXNode, QNode_PNode, QNode_PRXNode
 2. Perform KGTK Concatenate Transformation for FDA KGTK triples- QUALIFIERS edges:<br>
@@ -404,13 +404,13 @@ Uses the FDA and RXNORM KGTK Triples with IDs [created in Step 7] to generate Qu
 4. Perform KGTK Concatenate Transformation for FDA KGTK triples- PPROPERTIES datatype:<br>
 2 Files- PRXNode_datatype, PRXNode_datatype_Qualifier
 
-# **Step 10C: Merge RXNORM All Edges and FDA All Edges [Nodes+Properties+Qualifiers]**
+# **10C: Merge RXNORM All Edges and FDA All Edges [Nodes+Properties+Qualifiers]**
 1. Perform KGTK Concatenate Transformation for RXNROM KGTK triples- ALL edges:<br>
 3 Files- NODES_EDGES, PROPERTIES_EDGES and QUALFIERS_EDGES
 2. Perform KGTK Concatenate Transformation for FDA KGTK triples- ALL edges:<br>
 3 Files- NODES_EDGES, PROPERTIES_EDGES and QUALFIERS_EDGES
 
-# **Step 10D: FINAL Merge for RXNORM+FDA Combined- ALL Edges AND Property DataType**
+# **10D: FINAL Merge for RXNORM+FDA Combined- ALL Edges AND Property DataType**
 1. Perform KGTK Concatenate Transformation for ALL edges:<br>
 2 Files- ALLEDGES_RXNORM, ALLEDGES_FDA
 2. Perform KGTK Concatenate Transformation for ALL Property DataType:<br>
