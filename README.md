@@ -1,11 +1,23 @@
+# A Knowledge Graph of RxNORM and FDA drug data
+
+This project creates a knowledge graph version of (a subset of) the RXNORM and the FDA databases. 
+
+The graphical representation of the processing steps appears at: 
+https://github.com/vlalcsci/RXNorm_FDA_Triples/blob/main/rxnorm_fda_kg/architecture/architecture_diagram.JPG
+
+
 # **Step 0: Download RXNORM and FDA Data**
 **RXNORM**:
-1. Use this DATABASE creation automation script from RXNORM Technical Documentation- https://www.nlm.nih.gov/research/umls/rxnorm/docs/techdoc.html#s13_0
-2. Convert the Resultant SQL Files to get required CSV Files 
+1. Use this DATABASE creation automation script from RXNORM Technical Documentation: https://www.nlm.nih.gov/research/umls/rxnorm/docs/techdoc.html#s13_0
+2. The RXNORM database files are available at: https://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html
+3. Convert the Resultant SQL Files to get required CSV Files 
 
 **FDA**:
 1. Use this JSON from OPENFDA Documentation to get required - https://api.fda.gov/download.json
 2. Get the Required FDA files from: fda_json["results"]["drug"]["ndc"], fda_json["results"]["drug"]["label"], fda_json["results"]["drug"]["drugsfda"] & fda_json["results"]["drug"]["enforcement"]
+
+The csv files for RXNORM and json files for FDA used in this project are at: 
+https://drive.google.com/drive/folders/1oB-_gNqc29ZplYAQ5MlWyCRX2hXmR5y4
 
 
 # **Step 1: Generate Intermediate RXNORM Triples**
