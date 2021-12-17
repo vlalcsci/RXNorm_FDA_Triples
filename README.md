@@ -5,6 +5,8 @@ This project creates a knowledge graph version of (a subset of) the RXNORM and t
 The graphical representation of the processing steps appears at: 
 https://github.com/vlalcsci/RXNorm_FDA_Triples/blob/main/rxnorm_fda_kg/architecture/architecture_diagram.JPG
 
+An annotated notebook implementing the steps below is at https://github.com/vlalcsci/RXNorm_FDA_Triples/blob/main/rxnorm_fda_kg/notebooks/generate_triples_rxnorm_fda.ipynb
+
 
 # **Step 0: Download RXNORM and FDA Data**
 **RXNORM**:
